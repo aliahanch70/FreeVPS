@@ -1,0 +1,26 @@
+این کانفیگ ها تا ساعت 14 فعال است:
+vless://1be26e49-bce9-4b3c-99ad-e4f657acc28f@aliahanch98.gheychi.me:443?sni=30cee45a.gheychi.ninja&host=30cee45a.gheychi.ninja&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless+tls+14
+
+vless://1be26e49-bce9-4b3c-99ad-e4f657acc28f@cf.sansorchi.net:443?sni=30cee45a.gheychi.ninja&host=30cee45a.gheychi.ninja&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless+tls+14
+
+vless://1be26e49-bce9-4b3c-99ad-e4f657acc28f@discord.com:443?sni=30cee45a.gheychi.games&host=30cee45a.gheychi.games&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless+tls+14
+
+vless://1be26e49-bce9-4b3c-99ad-e4f657acc28f@iranserver.com:443?sni=30cee45a.gheychi.games&host=30cee45a.gheychi.games&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless+tls+14
+
+این کانفیگ ها تا ساعت 14 فعال است:
+vless://1be26e49-bce9-4b3c-99ad-e4f657acc28f@aliahanch98.gheychi.me:2053?sni=30cee45a.gheychi.ninja&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&encryption=none#vless+gtls+14
+
+vless://1be26e49-bce9-4b3c-99ad-e4f657acc28f@cf.sansorchi.net:2053?sni=30cee45a.gheychi.ninja&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&encryption=none#vless+gtls+14
+
+vless://1be26e49-bce9-4b3c-99ad-e4f657acc28f@discord.com:2053?sni=30cee45a.gheychi.ninja&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&encryption=none#vless+gtls+14
+
+vless://1be26e49-bce9-4b3c-99ad-e4f657acc28f@iranserver.com:2053?sni=30cee45a.gheychi.games&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&encryption=none#vless+gtls+14
+
+این کانفیگ ها تا ساعت 14 فعال است:
+vmess://eyJhZGQiOiAiYWxpYWhhbmNoOTguZ2hleWNoaS5tZSIsICJpZCI6ICIxYmUyNmU0OS1iY2U5LTRiM2MtOTlhZC1lNGY2NTdhY2MyOGYiLCAiYWlkIjogMCwgImhvc3QiOiAiMzBjZWU0NWEuZ2hleWNoaS5nYW1lcyIsICJwcyI6ICJ2bWVzcytub1RMUysxNCIsICJwb3J0IjogIjgwODAiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3MiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
+
+vmess://eyJhZGQiOiAiY2Yuc2Fuc29yY2hpLm5ldCIsICJpZCI6ICIxYmUyNmU0OS1iY2U5LTRiM2MtOTlhZC1lNGY2NTdhY2MyOGYiLCAiYWlkIjogMCwgImhvc3QiOiAiMzBjZWU0NWEuZ2hleWNoaS5nYW1lcyIsICJwcyI6ICJ2bWVzcytub1RMUysxNCIsICJwb3J0IjogIjgwODAiLCAidGxzIjogIiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3MiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
+
+vmess://eyJhZGQiOiAiZGlzY29yZC5jb20iLCAiaWQiOiAiMWJlMjZlNDktYmNlOS00YjNjLTk5YWQtZTRmNjU3YWNjMjhmIiwgImFpZCI6IDAsICJob3N0IjogIjMwY2VlNDVhLmdoZXljaGkubmluamEiLCAicHMiOiAidm1lc3Mrbm9UTFMrMTQiLCAicG9ydCI6ICI4MDgwIiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogMn0=
+
+vmess://eyJhZGQiOiAiaXJhbnNlcnZlci5jb20iLCAiaWQiOiAiMWJlMjZlNDktYmNlOS00YjNjLTk5YWQtZTRmNjU3YWNjMjhmIiwgImFpZCI6IDAsICJob3N0IjogIjMwY2VlNDVhLmdoZXljaGkubmluamEiLCAicHMiOiAidm1lc3Mrbm9UTFMrMTQiLCAicG9ydCI6ICI4MDgwIiwgInRscyI6ICIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogMn0=
